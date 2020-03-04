@@ -3,7 +3,6 @@ import time
 from selenium import webdriver
 
 
-
 class TestRegistration(unittest.TestCase):
     def test_first_link(self):
 
